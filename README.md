@@ -2,6 +2,7 @@
 ### *Advanced Binance Futures Auto-Trading Engine with Real-Time Analytics*
 
 ![AG-FUTUREBOT Header](assets/img/beranda.png)
+
 *(Tampilan Beranda Utama AG-FUTUREBOT dengan informasi Dompet & Modal Skala Otomatis)*
 
 ---
