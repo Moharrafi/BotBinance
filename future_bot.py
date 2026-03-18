@@ -21,8 +21,8 @@ G_LNR, G_CYN, G_GRN, G_RED, G_YLW, G_WHT, G_BOLD, RESET = "\033[95m", "\033[96m"
 # 🔑 API & CONFIG (WAJIB DIUBAH!)
 # =================================================================
 # Harap ganti dengan API Key dan Secret Anda sendiri dari BINANCE
-API_KEY = "URTkupyJPK4Fftxo7fs5VCpb90CdZznJNCbUeJ1etjHXxB2RvuxLReHTLPibcHJr"      # GANTI DENGAN API KEY BINANCE ANDA
-SECRET = "WWGjW1SDgVu6URYWVUvPodpSdKWNFTw4zctSO4pbjKTF9UtVJnJQguxoODyUKQdO"    # GANTI DENGAN SECRET KEY BINANCE ANDA
+API_KEY = ""      # GANTI DENGAN API KEY BINANCE ANDA
+SECRET = ""    # GANTI DENGAN SECRET KEY BINANCE ANDA
 
 # --- PENGATURAN TRADING ---
 DRY_RUN = True             # 🟢 True = SIMULASI (AMAN), False = LIVE TRADING (UANG ASLI)
